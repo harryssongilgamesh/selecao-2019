@@ -27,3 +27,7 @@ Criar um microsserviço utilizando arquitetura REST em qualquer linguagem de pro
 
 - Ter especificação da API testável, com o swagger por exemplo;
 - Ter testes funcionais para a API;
+
+### Enviar link por e-mail:
+
+- hgnobrega@stefanini.com
