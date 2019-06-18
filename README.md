@@ -1,4 +1,4 @@
-## Seleção 2019
+## Seleção Devs 2019
 
 Estamos buscando candidatos para fazer parte do nosso time, então criamos este pequeno desafio para melhor conhecer as qualidade de cada um.
 
